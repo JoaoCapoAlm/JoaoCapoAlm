@@ -6,7 +6,7 @@
 
 ### Eu sou o João Pedro
 - Sou estudante de Análise e Desenvolvimento de Sistemas.
-- Estou a procura de oportunidades de estágio ou emprego como efetivo.
+- Atualmente estou trabalhando como desenvolvedor full stack em uma ONG utilizando PHP, MySQL e Wordpress
 - Estou sempre querendo aprender algo novo.
 - De uma olhada nos meus projestos
 
