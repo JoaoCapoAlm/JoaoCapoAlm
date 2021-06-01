@@ -9,3 +9,5 @@
 - Estou a procura de oportunidades de estágio ou emprego como efetivo.
 - Estou sempre querendo aprender algo novo.
 - De uma olhada nos meus projestos
+
+![Snake animation](https://github.com/JoaoCapoAlm/JoaoCapoAlm/blob/output/github-contribution-grid-snake.svg)
