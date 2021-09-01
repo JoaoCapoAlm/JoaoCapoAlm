@@ -9,5 +9,3 @@
 - Atualmente estou trabalhando como desenvolvedor full stack em uma ONG utilizando PHP, MySQL e Wordpress
 - Estou sempre querendo aprender algo novo.
 - De uma olhada nos meus projestos
-
-![Snake animation](https://github.com/JoaoCapoAlm/JoaoCapoAlm/blob/output/github-contribution-grid-snake.svg)
