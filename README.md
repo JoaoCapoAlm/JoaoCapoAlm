@@ -7,5 +7,4 @@
 ### Eu sou o João Pedro
 - Sou estudante de Análise e Desenvolvimento de Sistemas.
 - Atualmente estou trabalhando como desenvolvedor full stack em uma ONG utilizando PHP, MySQL e Wordpress
-- Estou sempre querendo aprender algo novo.
 - De uma olhada nos meus projestos
