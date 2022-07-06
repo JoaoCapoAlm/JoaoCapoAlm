@@ -5,6 +5,6 @@
 <br />
 
 ### Eu sou o João Pedro
-- Sou estudante de Análise e Desenvolvimento de Sistemas.
-- Atualmente estou trabalhando como desenvolvedor full stack em uma ONG utilizando PHP, MySQL e Wordpress
+- Atualmente estou trabalhando como desenvolvedor utilizando C#, .NET e SQL Server.
+- Já trabalhei profissionalmente utilizando PHP e MySQL, inclusive no desenvolvimento de temas WordPress
 - De uma olhada nos meus projestos
