@@ -5,6 +5,8 @@
 <br />
 
 ### Eu sou o João Pedro
-- Atualmente estou trabalhando como desenvolvedor utilizando C#, .NET e SQL Server.
-- Já trabalhei profissionalmente utilizando PHP e MySQL, inclusive no desenvolvimento de temas WordPress
-- De uma olhada nos meus projestos
+Profissional de TI com mais de 5 anos de experiência em desenvolvimento de software utilizando C# (.NET) e PHP. Minha paixão pela tecnologia e inovação me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades.
+
+Ao longo da minha carreira, contribuí para o desenvolvimento de sistemas críticos para empresas. Minhas habilidades técnicas incluem programação em C# (.NET), PHP e banco de dados relacionais (SQL Server e MySQL), além de experiência em metodologias ágeis como Scrum.
+
+Estou sempre aberto a novas oportunidades e desafios, e estou disponível para projetos freelance ou oportunidades de emprego em tempo integral
